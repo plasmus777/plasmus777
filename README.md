@@ -3,6 +3,11 @@
 <div align="center">
   <h1>Fernando Lopes</h1>
   <h3>Desenvolvedor Full Stack Java Jr | Spring | MySQL | HTML | React</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/fernando-barbosa-ferreira-lopes/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+    </a>
+  </p>
 </div>
 
 <div align="center"> 
