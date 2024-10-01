@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Fernando Lopes</h1>
-  <a href=""https://www.linkedin.com/in/fernando-barbosa-ferreira-lopes/"" target=""_blank""><img src=""..."" target=""_blank""></a> 
+  <a href=""https://www.linkedin.com/in/fernando-barbosa-ferreira-lopes/"" target=""_blank""><img src="https://avatars.githubusercontent.com/u/118869201?s=400&u=f504131e9809db79fa064bdf2141d280c164f896&v=4" target="_blank" width="180" height="180"></a> 
   <h3>Desenvolvedor Full Stack Java Jr | Spring | MySQL | HTML | React</h3>
 </div>
 
